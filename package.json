@@ -1,0 +1,15 @@
+{
+  "name": "_local",
+  "version": "0.0.1",
+  "description": "A handy script that sets up a postinstall in your package.json that makes linking to utility functions via paths so much easier. ",
+  "main": "index.js",
+  "scripts": {
+    "install": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parent-package-json": "^2.0.1"
+  }
+}
